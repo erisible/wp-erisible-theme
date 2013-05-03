@@ -1,0 +1,75 @@
+.wp_syntax {
+	overflow: auto;
+}
+
+/* IE FIX */
+.wp_syntax {
+	overflow-x: auto;
+	overflow-y: hidden;
+	padding-bottom: expression(this.scrollWidth > this.offsetWidth ? 15 : 0);
+	width: 100%;
+}
+
+.wp_syntax table {
+	border: none !important;
+	border-collapse: collapse !important;
+	margin: 0 !important;
+	padding: 0 !important;
+	width: 100% !important;
+}
+
+.wp_syntax caption {
+	font-family: "SourceSansProBold";
+	padding: 0.5em 1em !important;
+	width: 100% !important;
+	background-color: #5BC9ED !important;
+	text-align: left !important;
+	color: #474747;
+}
+
+.wp_syntax caption a {
+	color: #FCFCFC !important;
+	text-align: left !important;
+	text-decoration: none !important;
+}
+
+.wp_syntax caption a:hover {
+	color: #FCFCFC !important;
+	text-decoration: underline !important;
+}
+
+.wp_syntax div, .wp_syntax td {
+	border: none !important;
+	text-align: left !important;
+	padding: 0 !important;
+	vertical-align: top !important;
+}
+
+.wp_syntax td.code{
+	white-space: normal !important;
+	width: 100%;
+}
+
+/* potential overrides for other styles */
+.wp_syntax pre {
+	margin: 0 !important;
+	padding: 0 !important;
+	width: auto !important;
+	float: none !important;
+	clear: none !important;
+	overflow: visible !important;
+	font-family: Consolas, "Courier New", Courier, monospace !important;
+	white-space: pre !important;
+	-moz-box-shadow: 0px 0px 0px rgba(0, 0, 0, 0) !important; /* FF3.5+ */
+	-webkit-box-shadow: 0px 0px 0px rgba(0, 0, 0, 0) !important; /* Saf3.0+, Chrome */
+	box-shadow: 0px 0px 0px rgba(0, 0, 0, 0) !important; /* Opera 10.5, IE 9.0 */
+	-webkit-border-radius: 0 !important;
+	-moz-border-radius: 0 !important;
+	border-radius: 0 !important;
+}
+
+.wp_syntax td.line_numbers pre {
+	color: #808080 !important;
+	padding: 0 1em !important;
+	text-align: center !important;
+}

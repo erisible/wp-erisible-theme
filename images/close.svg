@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 15.1.0, SVG Export Plug-In  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+	<!ENTITY ns_flows "http://ns.adobe.com/Flows/1.0/">
+	<!ENTITY st0 "fill:#474747;">
+	<!ENTITY st1 "fill:#808080;">
+	<!ENTITY st2 "fill:#EEEEEE;">
+	<!ENTITY st3 "display:inline;fill:#2A2A2A;">
+	<!ENTITY st4 "fill:#5BC9ED;">
+	<!ENTITY st5 "fill:#2A2A2A;">
+	<!ENTITY st6 "display:none;fill:#808080;">
+	<!ENTITY st7 "fill:#CFCFCF;">
+	<!ENTITY st8 "display:none;fill:#EEEEEE;">
+	<!ENTITY st9 "display:none;">
+	<!ENTITY st10 "display:none;fill:#5BC9ED;">
+	<!ENTITY st11 "display:none;fill:#2A2A2A;">
+]>
+<svg version="1.1"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+	 x="0px" y="0px" viewBox="0 0 50 50" style="enable-background:new 0 0 50 50;" xml:space="preserve">
+<defs>
+</defs>
+<rect style="&st10;" width="50" height="50"/>
+<polygon id="Close_dark_2_" style="&st1;" points="46.255,8.755 41.245,3.745 25,19.989 8.755,3.745 3.745,8.755 19.989,25 
+	3.745,41.245 8.755,46.255 25,30.011 41.245,46.255 46.255,41.245 30.011,25 "/>
+<polygon id="Close_light_1_" style="&st8;" points="46.255,8.755 41.245,3.745 25,19.989 8.755,3.745 3.745,8.755 19.989,25 
+	3.745,41.245 8.755,46.255 25,30.011 41.245,46.255 46.255,41.245 30.011,25 "/>
+<path id="Neg_10_" style="&st11;" d="M0,0v50h50V0H0z M46.255,41.245l-5.011,5.011L25,30.011L8.755,46.255l-5.011-5.011L19.989,25
+	L3.745,8.755l5.011-5.011L25,19.989L41.245,3.745l5.011,5.011L30.011,25L46.255,41.245z"/>
+</svg>
