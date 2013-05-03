@@ -1,6 +1,4 @@
-Wordpress theme
-===============
-
-**Visual art creator.**
+WP Erisible theme
+=================
 
 The theme I use for my (empty) blog.
